@@ -13,4 +13,4 @@ How To Use:
 
 Put your CSO2 .lo files into input folder, and then run decode.bat
 
-把CSOL2的.lo文件放到input文件夹下，然后运行decode.bat
+把CSOL2的.lo文件放到input文件夹下，然后运行decode.bat，生成的文件在output文件夹下
